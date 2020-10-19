@@ -1,0 +1,8 @@
+//Rewrite to www
+Options +FollowSymLinks
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^instagramsupportteam.com[nc]
+RewriteRule ^(.*)$ http://www.instagramsupportteam.com/$1 [r=301,nc]
+
+//301 Redirect Old File
+Redirect 301 /index.php /form.php

